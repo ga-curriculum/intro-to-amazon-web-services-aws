@@ -1,8 +1,8 @@
-# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Amazon Web Services
+# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Amazon Web Services (AWS)
 
-| Title                        | Type   | Duration | Author         |
-|------------------------------|--------|----------|----------------|
-| Intro to Amazon Web Services | Lesson | 0:25     | Prateek Parekh |
+| Title                              | Type   | Duration | Author         |
+|------------------------------------|--------|----------|----------------|
+| Intro to Amazon Web Services (AWS) | Lesson | 0:25     | Prateek Parekh |
 
 ## Learning Objectives
 
